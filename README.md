@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lelinho93
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend and Backend in Javascript
+- 👋 Hi, I’m Wesley Aquino
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently a software developer FullStack in Node.js and React.js/React-Native
 - 💞️ I’m looking to collaborate on React/Node projects
 - 📫 How to reach me ...
 
