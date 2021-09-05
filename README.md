@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wesley Aquino
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently a software developer FullStack in Node.js and React.js/React-Native
+- 🌱 I’m currently a software developer FullStack in Node.js, React.js/React-Native, MongoDB and MySQL
 - 💞️ I’m looking to collaborate on React/Node projects
 - 📫 How to reach me ... Email: lelinho93@gmail.com
 
